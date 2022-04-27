@@ -1,0 +1,39 @@
+
+@font-face {font-family: "Linotype Feltpen W02 Medium";
+  src: url("d6394565-804f-4a26-88d1-4d982c7eed9e.woff2");
+  font-display: swap;
+}
+
+html, body {
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  padding: 0px;
+  margin: 0px; 
+
+}
+
+html {
+
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+
+}
+
+*, *::before, *::after {
+
+  box-sizing: border-box; 
+
+}
+
+body {
+
+  background-color: black; 
+
+}
+
+#map {
+
+  width: 100%;
+  height: 100%;
+
+}
