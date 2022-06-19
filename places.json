@@ -1,212 +1,245 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      
+  "type": "FeatureCollection",
+  "features": [
     {
-        "type": "Feature",
-        "properties": {
-            "name": "Alice Springs"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-              133.8757526,
-                -23.6993436
-          ]
-        }
+      "type": "Feature",
+      "properties": {
+        "name": "Alice Springs"
       },
-
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Dajarra"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            139.3038811,-21.8257909
-          ]
-        }
-      },
-
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Burketown"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            139.5100734,-17.7434259
-          ]
-        }
-      },
-
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Eromanga"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            143.2542984,-26.6126533
-          ]
-        }
-      },
-
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Quilpie",
-            "text": "top"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            144.1040453,-26.5812916
-          ]
-        }
-      },
-
-      
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Winton"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            143.0357154,-22.382637
-          ]
-        }
-      },
-
-      
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Thargomindah"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            143.7853907,-27.9760571
-            ]
-        }
-      },
-
-
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Birdsville"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-           139.2825884, -25.9126384
-            ]
-        }
-      },
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Beenleigh"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            153.1907663,-27.7243085
-            ]
-        }
-      },
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Balmoral",
-            "text": "top"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            153.070879,-27.4561168
-            ]
-        }
-      },
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Goondiwindi "
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            150.3170463,-28.549573
-            ]
-        }
-      },
-      
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Charleville",
-            "text": "right"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            146.2096434,-26.403097
-            ]
-        }
-      },
-            
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Mackay"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            149.1681273,-21.136643
-            ]
-        }
-      },
-
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Bowen"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            148.219108,-20.0006926
-            ]
-        }
-      },
-
-      {
-        "type": "Feature",
-        "properties": {
-            "name": "Boulia"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-           139.8518241, -22.8775672
-            ]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.8757526,
+          -23.6993436
+        ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dajarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3038811,
+          -21.8257909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burketown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5100734,
+          -17.7434259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eromanga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2542984,
+          -26.6126533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quilpie",
+        "text": "top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.1040453,
+          -26.5812916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.0357154,
+          -22.382637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boulia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8518241,
+          -22.8775672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bedourie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.40716760228185,
+          -24.316186321492612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brown's Plains",
+        "text": "top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05265053590728,
+          -27.66211992034023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarrabilba"
 
-    ]
-  }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.10802191697093,
+          -27.802447246148326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beenleigh",
+        "text": "right"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1907663,
+          -27.7243085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Birdsville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2825884,
+          -25.9126384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charleville",
+        "text": "right"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2096434,
+          -26.403097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bowen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.219108,
+          -20.0006926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tambo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.26321071290752,
+          -24.883891835106333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goondiwindi "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3170463,
+          -28.549573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulgon",
+        "text": "top"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5290838558625,
+          -32.36151824641552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mackay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1681273,
+          -21.136643
+        ]
+      }
+    }
+  ]
+}

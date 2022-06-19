@@ -36,8 +36,9 @@ _e = (function () {
 
 			if ( aFeature.get( "text" ) == "right" ) {
 				aY = 0;
-				aX = 55;
+				aX = 45;
 			}
+
 
 			let aStyle = new ol.style.Style({
 				image: new ol.style.Circle({
@@ -157,6 +158,39 @@ _e = (function () {
 
 			this.launchHookCallback({});
 
+			let aPair = document.location.href.split( "?" );
+
+			let aMode = "1200";
+
+			if ( aPair.length > 1 ) {
+
+				let someParams = aPair[ 1 ];
+
+				aMode = someParams.split( "=" )[ 1 ];
+
+			}
+
+			let aView = this.mapPackages[ 'map' ].map.getView();
+
+			if ( aMode == '1200' ) {
+
+				aView.setCenter( [ 14900000, -3250000 ] );
+
+			}
+			else if ( aMode == '900' ) {
+
+				aView.setCenter( [ 15600000, -2900000 ] );
+
+			}			else if ( aMode == '600' ) {
+
+				aView.setCenter( [ 16000000, -2900000 ] );
+
+			}
+			else if ( aMode == '300' ) {
+
+				aView.setCenter( [ 16000000, -2900000 ] );
+
+			}
 		},
 
 		launchHookCallback: function (someData) {
